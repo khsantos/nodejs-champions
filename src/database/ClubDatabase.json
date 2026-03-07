@@ -1,0 +1,92 @@
+ [
+  {
+    "id": 1,
+    "name": "FC Barcelona",
+    "country": "Spain",
+    "city": "Barcelona",
+    "stadium": "Camp Nou",
+    "founded": 1899,
+    "titles": 27
+  },
+  {
+    "id": 2,
+    "name": "Real Madrid",
+    "country": "Spain",
+    "city": "Madrid",
+    "stadium": "Santiago Bernabéu",
+    "founded": 1902,
+    "titles": 35
+  },
+  {
+    "id": 3,
+    "name": "Manchester United",
+    "country": "England",
+    "city": "Manchester",
+    "stadium": "Old Trafford",
+    "founded": 1878,
+    "titles": 20
+  },
+  {
+    "id": 4,
+    "name": "Bayern Munich",
+    "country": "Germany",
+    "city": "Munich",
+    "stadium": "Allianz Arena",
+    "founded": 1900,
+    "titles": 33
+  },
+  {
+    "id": 5,
+    "name": "Paris Saint-Germain",
+    "country": "France",
+    "city": "Paris",
+    "stadium": "Parc des Princes",
+    "founded": 1970,
+    "titles": 11
+  },
+  {
+    "id": 6,
+    "name": "Juventus",
+    "country": "Italy",
+    "city": "Turin",
+    "stadium": "Allianz Stadium",
+    "founded": 1897,
+    "titles": 36
+  },
+  {
+    "id": 7,
+    "name": "Liverpool",
+    "country": "England",
+    "city": "Liverpool",
+    "stadium": "Anfield",
+    "founded": 1892,
+    "titles": 19
+  },
+  {
+    "id": 8,
+    "name": "Chelsea",
+    "country": "England",
+    "city": "London",
+    "stadium": "Stamford Bridge",
+    "founded": 1905,
+    "titles": 6
+  },
+  {
+    "id": 9,
+    "name": "AC Milan",
+    "country": "Italy",
+    "city": "Milan",
+    "stadium": "San Siro",
+    "founded": 1899,
+    "titles": 19
+  },
+  {
+    "id": 10,
+    "name": "Borussia Dortmund",
+    "country": "Germany",
+    "city": "Dortmund",
+    "stadium": "Signal Iduna Park",
+    "founded": 1909,
+    "titles": 8
+  }
+]
